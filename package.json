@@ -2,13 +2,13 @@
   "name": "mapmycode",
   "main": "./lib/mapmycode",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A package that will be able to tell you what variables' values are at a specific point in your code. Useful for beginners in keeping track of multiple variables and learning how things work.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "mapmycode:toggle"
   },
-  "repository": "https://github.com/atom/mapmycode",
+  "repository": "https://github.com/lantay/mapmycode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
