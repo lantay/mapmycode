@@ -1,0 +1,18 @@
+{
+  "name": "mapmycode",
+  "main": "./lib/mapmycode",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "mapmycode:toggle"
+  },
+  "repository": "https://github.com/atom/mapmycode",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

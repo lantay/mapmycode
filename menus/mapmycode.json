@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mapmycode",
+        "command": "mapmycode:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mapmycode",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mapmycode:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
